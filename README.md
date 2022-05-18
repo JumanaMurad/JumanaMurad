@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JumanaMurad
-- 👀 I’m interested in Technology specialy IOT and Rebotics
-- 🌱 I’m currently learning Software Engineering and Multimedia Systems
+- 👀 Founder of Utopia
+- 🌱 I’m currently studying Software Engineering and Multimedia Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jumanamurad1@gmail.com
 
