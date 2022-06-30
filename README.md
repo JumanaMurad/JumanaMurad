@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JumanaMurad
 - 👀 Founder of Utopia
-- 🌱 I’m currently studying Software Engineering and Multimedia Systems
-- 💞️ I’m looking to collaborate on ...
+-  Software Engineering and Multimedia Systems
 - 📫 How to reach me: jumanamurad1@gmail.com
 
 <!---
