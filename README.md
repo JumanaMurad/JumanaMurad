@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JumanaMurad
-- 👀 Founder of Utopia
 -  Software Engineering and Multimedia Systems
 - 📫 How to reach me: jumanamurad1@gmail.com
 
