@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JumanaMurad
--  Software Engineering and Multimedia Systems
+-  Software Engineer | Quality control Engineer
 - 📫 How to reach me: jumanamurad1@gmail.com
 
 <!---
