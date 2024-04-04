@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jumana Murad</h1>
 <h3 align="center">A passionate Quality Control Engineer with a focus on manual and automated testing</h3>
 
-<p align="center">
-  <a href="https://github.com/jumanamurad"><img src="URL_TO_YOUR_GITHUB_PROFILE_PICTURE" alt="profile picture"></a>
-</p>
-
 ---
 
 ### 🙋‍♀️ About Me
