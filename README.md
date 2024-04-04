@@ -38,4 +38,4 @@ On the horizon, I’m exploring projects that bridge my solid foundation in QA w
 
 ### 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/jumana-murad/)
+- LinkedIn: [Jumana Murad](https://www.linkedin.com/in/jumana-murad/)
