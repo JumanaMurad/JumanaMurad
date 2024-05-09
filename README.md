@@ -41,3 +41,4 @@ As I bridge my solid foundation in QA with the dynamic world of backend developm
 ### 🤝 Connect with Me
 
 - LinkedIn: [Jumana Murad](https://www.linkedin.com/in/jumana-murad/)
+- Medium: [Blog](https://medium.com/@jumanamurad1)
