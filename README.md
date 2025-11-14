@@ -90,7 +90,7 @@ Whether you're:
 ## 🤓 Fun Fact
 Once a **Software Quality Control** hunting bugs and making sure systems ran smoothly 🕵️‍♀️.  
 Now I **write the code** that makes those systems run 💻⚡.  
-From finding problems to building solutions — some habits just stick! 🚀
+From finding problems to building solutions, some habits just stick! 🚀
 
 
 ---
