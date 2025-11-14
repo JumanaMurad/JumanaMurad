@@ -87,6 +87,14 @@ Whether you're:
 
 ---
 
+## 🤓 Fun Fact
+Once a **Software Quality Control** hunting bugs and making sure systems ran smoothly 🕵️‍♀️.  
+Now I **write the code** that makes those systems run 💻⚡.  
+From finding problems to building solutions — some habits just stick! 🚀
+
+
+---
+
 ## 📊 GitHub Overview
 ![Stats](https://github-readme-stats.vercel.app/api?username=JumanaMurad&show_icons=true&theme=tokyonight)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JumanaMurad&layout=compact&theme=tokyonight)
