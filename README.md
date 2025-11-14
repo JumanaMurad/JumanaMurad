@@ -72,8 +72,6 @@ Curiosity drives everything I do. ✨
 <!-- STATS -->
 ## 📊 GitHub Overview
 
-> Replace `JumanaMurad` with your GitHub username after creating the repo.
-
 ```md
 ![Stats](https://github-readme-stats.vercel.app/api?username=JumanaMurad&show_icons=true&theme=radical)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JumanaMurad&layout=compact&theme=radical)
