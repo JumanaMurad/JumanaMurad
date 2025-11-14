@@ -55,7 +55,7 @@ Outside tech, I'm an **ex-Modern Pentathlon athlete**, currently into **CrossFit
 ## 🌟 What I Do
 - Architect scalable backend systems  
 - Build event-driven, async workflows using **Kafka**  
-- Deploy production apps using **Docker + Railway/AWS/Vercel**  
+- Deploy production apps using **Docker + Railway/AWS**  
 - Full-stack development with **Rails/.NET + Tailwind**  
 - Freelance delivery for end-to-end project builds  
 
