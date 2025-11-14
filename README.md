@@ -9,7 +9,7 @@
 </h1>
 
 <h3 style="color: #FFFFFF; text-shadow: 0 0 5px #33E1FF, 0 0 10px #9D4EDD;">
-  Backend Engineer • Full-Stack Freelancer • System Builder
+  Backend Engineer • Full-Stack Freelancer
 </h3>
 
 <p>
