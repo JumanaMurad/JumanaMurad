@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hey, I'm <strong>Jumana Murad</strong></h1>
-<h3 align="center">Backend Engineer • Full-Stack Freelancer • CrossFit Athlete</h3>
+<h3 align="center">Backend Engineer • Full-Stack Freelancer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=0AB6FF&center=true&vCenter=true&width=550&lines=Backend+Engineer+%7C+Fullstack+Freelancer;Event-Driven+Systems+%7C+Microservices;Ruby+on+Rails+%7C+.NET+%7C+Docker;Building+Fast%2C+Clean%2C+Scalable+Software" />
