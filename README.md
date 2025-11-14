@@ -17,6 +17,14 @@ Outside tech, I'm an **ex-Modern Pentathlon athlete**, currently into **CrossFit
 
 ---
 
+<!-- PERSONALITY -->
+## 🌱 Always Learning
+I’m obsessed with **unlocking new skills**, learning modern technologies, and constantly improving how I build software.  
+Every project is a chance to grow — whether it's a new framework, architecture pattern, or devops tool.  
+Curiosity drives everything I do. ✨
+
+---
+
 <!-- TECH STACK -->
 ## 🧰 Tech Stack
 
