@@ -1,45 +1,27 @@
-<!-- HERO BANNER -->
-<div align="center">
-  <img src="https://i.imgur.com/mJtYQpD.png" width="100%" alt="Jumana Murad Banner"/>
-</div>
-
 <!-- TITLE -->
-<h1 align="center" style="font-size: 48px; font-weight: 700;">
-  <span style="background: linear-gradient(90deg,#00D1FF,#9D4EDD); -webkit-background-clip: text; color: transparent;">
-    Hey, I'm <strong>Jumana Murad</strong> 👋
-  </span>
-</h1>
+# 👋 Hey, I'm **Jumana Murad**
 
-<h3 align="center">
-  Backend Engineer • Full-Stack Freelancer • System Builder
-</h3>
+### Backend Engineer • Full-Stack Freelancer • System Builder
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=33E1FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Fullstack+Freelancer;Modern+Architectures+%7C+Event-Driven+Systems;Rails+%7C+.NET+%7C+Docker+%7C+Kafka;Building+Clean%2C+Fast%2C+Scalable+Software" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=33E1FF&width=650&lines=Backend+Engineer+%7C+Fullstack+Freelancer;Modern+Architectures+%7C+Event-Driven+Systems;Rails+%7C+.NET+%7C+Docker+%7C+Kafka;Building+Clean%2C+Fast%2C+Scalable+Software)
 
 ---
 
-<!-- ABOUT ME -->
-## <div align="center">🚀 Who I Am</div>
-<div align="center">
-  I'm a backend-focused engineer with full-stack capabilities for freelance work.<br/>
-  I specialize in building **monoliths**, **microservices**, and **event-driven systems** — whatever gets the job done cleanly and efficiently.<br/><br/>
-  Outside tech, I'm an **ex-Modern Pentathlon athlete** and now a committed **CrossFit** athlete 🏋️🔥.
-</div>
+## 🚀 About Me
+I'm a backend-focused engineer who also works full-stack on freelance projects.  
+I build everything from **monoliths** to **microservices**, including **event-driven systems**, cloud deployments, and optimized backend workflows.
+
+Outside of tech, I'm an **ex-Modern Pentathlon athlete** and currently deep into **CrossFit** 🏋️🔥.
 
 ---
 
-<!-- GLASS CARD STYLE -->
-<div align="center">
-  <img src="https://i.imgur.com/5zQFr7w.png" width="80%" style="border-radius: 20px;" />
-</div>
+## 🌱 Always Growing
+I love exploring new technologies, improving system performance, and learning architecture patterns that make software scale cleanly.  
+Curiosity is my strongest tool.
 
 ---
 
-## <div align="center">🧰 Tech Stack</div>
-
-<div align="center">
+## 🧰 Tech Stack
 
 ### **Languages & Frameworks**
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -57,36 +39,34 @@
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 
----
-
-</div>
-
-## <div align="center">🌟 What I Do</div>
-
-<div align="center">
-
-✔ Architect scalable backend systems  
-✔ Build event-driven workflows with **Kafka**  
-✔ Deploy production apps using **Docker + Railway/AWS**  
-✔ Full-stack development using **Rails / .NET / Tailwind**  
-✔ Freelance: from **idea → architecture → production delivery**  
-
-</div>
+### **Architecture**
+- Microservices  
+- Monolithic Systems  
+- Event-Driven Messaging  
+- REST APIs  
 
 ---
 
-## <div align="center">📞 Want to Work With Me?</div>
+## 🌟 What I Do
+- Architect scalable backend systems  
+- Build event-driven workflows with **Kafka**  
+- Deploy apps using **Docker + Railway/AWS**  
+- Full-stack development using **Rails / .NET / Tailwind**  
+- Freelance delivery from **idea → architecture → production**  
 
-<div align="center">
+---
+
+## 📞 Work With Me
 
 Whether you're:  
-💡 Building a new business idea  
-🚀 Scaling your existing software  
-📲 Digitalizing operations  
-🏗️ Or need a system architect  
+💡 Designing a new product  
+🚀 Scaling an existing system  
+📲 Digitalizing offline processes  
+🏗️ Or need backend architecture  
 
-I'm here to help.
+I'm available to discuss your project.
 
+### **Contact Me**
 <a href="mailto:jumana.muradd@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -95,24 +75,14 @@ I'm here to help.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
-
 ---
 
-## <div align="center">📊 GitHub Stats</div>
+## 📊 GitHub Overview
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JumanaMurad&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=JumanaMurad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JumanaMurad&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
 ---
 
-<div align="center">
-
 ### 🫶 Thanks for stopping by!  
-💎 _Building software with passion, speed, and precision._
-
-</div>
+**Building software with speed, clarity, and purpose.**
