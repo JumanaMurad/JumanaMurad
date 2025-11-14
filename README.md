@@ -1,23 +1,36 @@
-<!-- TITLE -->
-# 👋 Hey, I'm **Jumana Murad**
+<!-- ========================= -->
+<!-- CENTERED NEON HERO SECTION -->
+<!-- ========================= -->
 
-### Backend Engineer • Full-Stack Freelancer • System Builder
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=33E1FF&width=650&lines=Backend+Engineer+%7C+Fullstack+Freelancer;Modern+Architectures+%7C+Event-Driven+Systems;Rails+%7C+.NET+%7C+Docker+%7C+Kafka;Building+Clean%2C+Fast%2C+Scalable+Software)
+<h1 style="font-size: 56px; font-weight: 800; color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #9D4EDD, 0 0 30px #33E1FF;">
+  👋 Hey, I'm <strong>Jumana Murad</strong>
+</h1>
+
+<h3 style="color: #FFFFFF; text-shadow: 0 0 5px #33E1FF, 0 0 10px #9D4EDD;">
+  Backend Engineer • Full-Stack Freelancer • System Builder
+</h3>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=33E1FF&width=650&center=true&vCenter=true&lines=Backend+Engineer+%7C+Fullstack+Freelancer;Modern+Architectures+%7C+Event-Driven+Systems;Rails+%7C+.NET+%7C+Docker+%7C+Kafka;Building+Clean%2C+Fast%2C+Scalable+Software" />
+</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
-I'm a backend-focused engineer who also works full-stack on freelance projects.  
-I build everything from **monoliths** to **microservices**, including **event-driven systems**, cloud deployments, and optimized backend workflows.
+I’m a backend-focused engineer who also works full-stack on freelance projects.  
+I build **monoliths**, **microservices**, and **event-driven systems** using modern tooling and cloud platforms.
 
-Outside of tech, I'm an **ex-Modern Pentathlon athlete** and currently deep into **CrossFit** 🏋️🔥.
+Outside of tech, I'm an **ex-Modern Pentathlon athlete** and currently into **CrossFit** 🏋️🔥.
 
 ---
 
-## 🌱 Always Growing
-I love exploring new technologies, improving system performance, and learning architecture patterns that make software scale cleanly.  
-Curiosity is my strongest tool.
+## 🌱 Always Learning
+I love unlocking new skills, learning modern technologies, and improving system architecture every day.  
+Curiosity drives everything I do. ✨
 
 ---
 
@@ -32,6 +45,7 @@ Curiosity is my strongest tool.
 ### **Databases**
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005F87?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ### **DevOps & Cloud**
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -44,6 +58,7 @@ Curiosity is my strongest tool.
 - Monolithic Systems  
 - Event-Driven Messaging  
 - REST APIs  
+- NoSQL / Document-Oriented Design (MongoDB)
 
 ---
 
@@ -52,37 +67,31 @@ Curiosity is my strongest tool.
 - Build event-driven workflows with **Kafka**  
 - Deploy apps using **Docker + Railway/AWS**  
 - Full-stack development using **Rails / .NET / Tailwind**  
-- Freelance delivery from **idea → architecture → production**  
+- Freelance delivery from **idea → architecture → production**
 
 ---
 
 ## 📞 Work With Me
-
 Whether you're:  
-💡 Designing a new product  
-🚀 Scaling an existing system  
-📲 Digitalizing offline processes  
-🏗️ Or need backend architecture  
+💡 Building a new product  
+🚀 Scaling your software  
+📲 Digitalizing operations  
 
-I'm available to discuss your project.
-
-### **Contact Me**
-<a href="mailto:jumana.muradd@gmail.com">
+<a href="mailto:jumana.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/JumanaMurad" target="_blank">
+<a href="https://www.linkedin.com/in/jumana-murad/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ---
 
 ## 📊 GitHub Overview
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JumanaMurad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JumanaMurad&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=JumanaMurad&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JumanaMurad&layout=compact&theme=tokyonight)
 
 ---
 
-### 🫶 Thanks for stopping by!  
+### 🫶 Thanks for stopping by!
 **Building software with speed, clarity, and purpose.**
