@@ -25,7 +25,6 @@ Outside tech, I'm an **ex-Modern Pentathlon athlete**, currently into **CrossFit
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
@@ -35,7 +34,6 @@ Outside tech, I'm an **ex-Modern Pentathlon athlete**, currently into **CrossFit
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### **Architecture**
