@@ -23,9 +23,16 @@ Outside tech, I'm an **ex-Modern Pentathlon athlete**, currently into **CrossFit
 ### **Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005F87?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### **DevOps & Cloud**
@@ -60,5 +67,5 @@ Outside tech, I'm an **ex-Modern Pentathlon athlete**, currently into **CrossFit
 > Replace `JumanaMurad` with your GitHub username after creating the repo.
 
 ```md
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=JumanaMurad&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JumanaMurad&layout=compact&theme=radical)
