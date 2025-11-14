@@ -11,7 +11,7 @@
 <!-- ABOUT -->
 ## 🚀 About Me
 I’m a backend-focused engineer who also works full-stack for freelance projects.  
-I build clean, scalable apps — from **monoliths** to **distributed microservices**, using modern tooling and cloud platforms.
+I build clean, scalable apps from **monoliths** to **distributed microservices**, using modern tooling and cloud platforms.
 
 Outside tech, I'm an **ex-Modern Pentathlon athlete**, currently into **CrossFit** 💪🔥.
 
